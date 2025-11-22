@@ -9,4 +9,4 @@
 
 > 👉 Skills:
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Cascadia+Code&weight=600&size=22&duration=4000&pause=250&color=01dc7d&vCenter=true&random=true&lines=Back+End;Sys+Admin;Software+Engineer;FiveM+Developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Cascadia+Code&weight=600&size=22&duration=4000&pause=250&color=01dc7d&vCenter=true&random=true&lines=Back-End+Developer;Sys+Admin;Software+Engineer;FiveM+Developer)](https://git.io/typing-svg)
