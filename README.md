@@ -1,7 +1,5 @@
 <h1 align="center">Hi everyone! I'm Murilo 👋</h1>
 
-<p align="center"><i>🦆 "In code we trust, in ducks we inspire."</i></p>
-
 
 > ⚙️ Working languages:
 
